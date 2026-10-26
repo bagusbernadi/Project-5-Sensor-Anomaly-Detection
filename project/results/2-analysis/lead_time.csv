@@ -1,0 +1,4 @@
+method,feature_set,events_total,events_detected,events_with_lead_ge_min,lead_mean_h,lead_median_h,lead_min_h,lead_max_h
+fixed,-,4,4,3,13.3125,15.541666666666668,-0.0833333333333333,22.25
+iforest,value+z+std,4,4,1,0.10416666666666607,0.7916666666666666,-22.916666666666668,21.75
+zscore,-,4,3,2,1.8333333333333346,5.333333333333333,-21.58333333333333,21.75

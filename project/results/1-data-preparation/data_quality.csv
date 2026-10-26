@@ -1,0 +1,17 @@
+ukuran,nilai
+titik data (baris),22695
+timestamp pertama,2013-12-02 21:15:00
+timestamp terakhir,2014-02-19 15:25:00
+rentang (hari),78.76
+interval 5 menit normal,22693
+celah waktu (> 5 menit),0
+timestamp mundur,1
+mundur sebesar (menit),55
+timestamp ganda (kemunculan kedua),12
+tanggal timestamp mundur,2014-01-07 02:00
+nilai kosong,0
+suhu minimum,2.08
+suhu maksimum,108.51
+titik dengan suhu di bawah 30,73
+jendela anomali berlabel,4
+titik di dalam jendela berlabel,2268

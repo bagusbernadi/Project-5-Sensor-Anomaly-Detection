@@ -1,0 +1,9 @@
+method,feature_set,ambang_data_lengkap,persistence_data_lengkap,ambang_hanya_data_latih,persistence_hanya_data_latih,status,ts_terakhir_data_latih
+fixed,-,35.0,6.0,35.0,6.0,PASS,2013-12-31 23:55:00
+iforest,semua fitur,0.6315180318501618,3.0,0.6315180318501618,3.0,PASS,2013-12-31 23:55:00
+iforest,value,0.607499531361687,6.0,0.607499531361687,6.0,PASS,2013-12-31 23:55:00
+iforest,value+z,0.6461586849895773,3.0,0.6461586849895773,3.0,PASS,2013-12-31 23:55:00
+iforest,value+z+slope,0.6193797745214996,1.0,0.6193797745214996,1.0,PASS,2013-12-31 23:55:00
+iforest,value+z+std,0.5963105883656075,3.0,0.5963105883656075,3.0,PASS,2013-12-31 23:55:00
+zscore,-,3.25,3.0,3.25,3.0,PASS,2013-12-31 23:55:00
+(semua),data terakhir yang dipakai memilih,,,,,PASS,2013-12-31 23:55:00

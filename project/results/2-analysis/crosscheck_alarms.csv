@@ -1,0 +1,997 @@
+metode,fitur,ambang,persistence,ukuran,python,sql,status
+fixed,-,5.0,1,episode,107,107,PASS
+fixed,-,5.0,1,episode dalam jendela,4,4,PASS
+fixed,-,5.0,1,alarm palsu,103,103,PASS
+fixed,-,5.0,1,kejadian terdeteksi,2,2,PASS
+fixed,-,5.0,3,episode,103,103,PASS
+fixed,-,5.0,3,episode dalam jendela,4,4,PASS
+fixed,-,5.0,3,alarm palsu,99,99,PASS
+fixed,-,5.0,3,kejadian terdeteksi,2,2,PASS
+fixed,-,5.0,6,episode,86,86,PASS
+fixed,-,5.0,6,episode dalam jendela,7,7,PASS
+fixed,-,5.0,6,alarm palsu,79,79,PASS
+fixed,-,5.0,6,kejadian terdeteksi,2,2,PASS
+fixed,-,10.0,1,episode,75,75,PASS
+fixed,-,10.0,1,episode dalam jendela,4,4,PASS
+fixed,-,10.0,1,alarm palsu,71,71,PASS
+fixed,-,10.0,1,kejadian terdeteksi,2,2,PASS
+fixed,-,10.0,3,episode,78,78,PASS
+fixed,-,10.0,3,episode dalam jendela,5,5,PASS
+fixed,-,10.0,3,alarm palsu,73,73,PASS
+fixed,-,10.0,3,kejadian terdeteksi,2,2,PASS
+fixed,-,10.0,6,episode,72,72,PASS
+fixed,-,10.0,6,episode dalam jendela,5,5,PASS
+fixed,-,10.0,6,alarm palsu,67,67,PASS
+fixed,-,10.0,6,kejadian terdeteksi,2,2,PASS
+fixed,-,15.0,1,episode,50,50,PASS
+fixed,-,15.0,1,episode dalam jendela,4,4,PASS
+fixed,-,15.0,1,alarm palsu,46,46,PASS
+fixed,-,15.0,1,kejadian terdeteksi,2,2,PASS
+fixed,-,15.0,3,episode,44,44,PASS
+fixed,-,15.0,3,episode dalam jendela,5,5,PASS
+fixed,-,15.0,3,alarm palsu,39,39,PASS
+fixed,-,15.0,3,kejadian terdeteksi,2,2,PASS
+fixed,-,15.0,6,episode,40,40,PASS
+fixed,-,15.0,6,episode dalam jendela,5,5,PASS
+fixed,-,15.0,6,alarm palsu,35,35,PASS
+fixed,-,15.0,6,kejadian terdeteksi,2,2,PASS
+fixed,-,20.0,1,episode,38,38,PASS
+fixed,-,20.0,1,episode dalam jendela,7,7,PASS
+fixed,-,20.0,1,alarm palsu,31,31,PASS
+fixed,-,20.0,1,kejadian terdeteksi,2,2,PASS
+fixed,-,20.0,3,episode,36,36,PASS
+fixed,-,20.0,3,episode dalam jendela,8,8,PASS
+fixed,-,20.0,3,alarm palsu,28,28,PASS
+fixed,-,20.0,3,kejadian terdeteksi,2,2,PASS
+fixed,-,20.0,6,episode,32,32,PASS
+fixed,-,20.0,6,episode dalam jendela,7,7,PASS
+fixed,-,20.0,6,alarm palsu,25,25,PASS
+fixed,-,20.0,6,kejadian terdeteksi,2,2,PASS
+fixed,-,25.0,1,episode,22,22,PASS
+fixed,-,25.0,1,episode dalam jendela,4,4,PASS
+fixed,-,25.0,1,alarm palsu,18,18,PASS
+fixed,-,25.0,1,kejadian terdeteksi,2,2,PASS
+fixed,-,25.0,3,episode,22,22,PASS
+fixed,-,25.0,3,episode dalam jendela,6,6,PASS
+fixed,-,25.0,3,alarm palsu,16,16,PASS
+fixed,-,25.0,3,kejadian terdeteksi,2,2,PASS
+fixed,-,25.0,6,episode,23,23,PASS
+fixed,-,25.0,6,episode dalam jendela,8,8,PASS
+fixed,-,25.0,6,alarm palsu,15,15,PASS
+fixed,-,25.0,6,kejadian terdeteksi,2,2,PASS
+fixed,-,30.0,1,episode,17,17,PASS
+fixed,-,30.0,1,episode dalam jendela,6,6,PASS
+fixed,-,30.0,1,alarm palsu,11,11,PASS
+fixed,-,30.0,1,kejadian terdeteksi,2,2,PASS
+fixed,-,30.0,3,episode,15,15,PASS
+fixed,-,30.0,3,episode dalam jendela,5,5,PASS
+fixed,-,30.0,3,alarm palsu,10,10,PASS
+fixed,-,30.0,3,kejadian terdeteksi,2,2,PASS
+fixed,-,30.0,6,episode,12,12,PASS
+fixed,-,30.0,6,episode dalam jendela,4,4,PASS
+fixed,-,30.0,6,alarm palsu,8,8,PASS
+fixed,-,30.0,6,kejadian terdeteksi,2,2,PASS
+fixed,-,35.0,1,episode,10,10,PASS
+fixed,-,35.0,1,episode dalam jendela,4,4,PASS
+fixed,-,35.0,1,alarm palsu,6,6,PASS
+fixed,-,35.0,1,kejadian terdeteksi,4,4,PASS
+fixed,-,35.0,3,episode,11,11,PASS
+fixed,-,35.0,3,episode dalam jendela,5,5,PASS
+fixed,-,35.0,3,alarm palsu,6,6,PASS
+fixed,-,35.0,3,kejadian terdeteksi,4,4,PASS
+fixed,-,35.0,6,episode,10,10,PASS
+fixed,-,35.0,6,episode dalam jendela,5,5,PASS
+fixed,-,35.0,6,alarm palsu,5,5,PASS
+fixed,-,35.0,6,kejadian terdeteksi,4,4,PASS
+fixed,-,40.0,1,episode,6,6,PASS
+fixed,-,40.0,1,episode dalam jendela,3,3,PASS
+fixed,-,40.0,1,alarm palsu,3,3,PASS
+fixed,-,40.0,1,kejadian terdeteksi,3,3,PASS
+fixed,-,40.0,3,episode,5,5,PASS
+fixed,-,40.0,3,episode dalam jendela,3,3,PASS
+fixed,-,40.0,3,alarm palsu,2,2,PASS
+fixed,-,40.0,3,kejadian terdeteksi,3,3,PASS
+fixed,-,40.0,6,episode,4,4,PASS
+fixed,-,40.0,6,episode dalam jendela,2,2,PASS
+fixed,-,40.0,6,alarm palsu,2,2,PASS
+fixed,-,40.0,6,kejadian terdeteksi,2,2,PASS
+fixed,-,45.0,1,episode,3,3,PASS
+fixed,-,45.0,1,episode dalam jendela,2,2,PASS
+fixed,-,45.0,1,alarm palsu,1,1,PASS
+fixed,-,45.0,1,kejadian terdeteksi,2,2,PASS
+fixed,-,45.0,3,episode,2,2,PASS
+fixed,-,45.0,3,episode dalam jendela,2,2,PASS
+fixed,-,45.0,3,alarm palsu,0,0,PASS
+fixed,-,45.0,3,kejadian terdeteksi,2,2,PASS
+fixed,-,45.0,6,episode,2,2,PASS
+fixed,-,45.0,6,episode dalam jendela,2,2,PASS
+fixed,-,45.0,6,alarm palsu,0,0,PASS
+fixed,-,45.0,6,kejadian terdeteksi,2,2,PASS
+fixed,-,50.0,1,episode,2,2,PASS
+fixed,-,50.0,1,episode dalam jendela,2,2,PASS
+fixed,-,50.0,1,alarm palsu,0,0,PASS
+fixed,-,50.0,1,kejadian terdeteksi,2,2,PASS
+fixed,-,50.0,3,episode,2,2,PASS
+fixed,-,50.0,3,episode dalam jendela,2,2,PASS
+fixed,-,50.0,3,alarm palsu,0,0,PASS
+fixed,-,50.0,3,kejadian terdeteksi,2,2,PASS
+fixed,-,50.0,6,episode,2,2,PASS
+fixed,-,50.0,6,episode dalam jendela,2,2,PASS
+fixed,-,50.0,6,alarm palsu,0,0,PASS
+fixed,-,50.0,6,kejadian terdeteksi,2,2,PASS
+fixed,-,55.0,1,episode,2,2,PASS
+fixed,-,55.0,1,episode dalam jendela,2,2,PASS
+fixed,-,55.0,1,alarm palsu,0,0,PASS
+fixed,-,55.0,1,kejadian terdeteksi,2,2,PASS
+fixed,-,55.0,3,episode,3,3,PASS
+fixed,-,55.0,3,episode dalam jendela,3,3,PASS
+fixed,-,55.0,3,alarm palsu,0,0,PASS
+fixed,-,55.0,3,kejadian terdeteksi,2,2,PASS
+fixed,-,55.0,6,episode,3,3,PASS
+fixed,-,55.0,6,episode dalam jendela,3,3,PASS
+fixed,-,55.0,6,alarm palsu,0,0,PASS
+fixed,-,55.0,6,kejadian terdeteksi,2,2,PASS
+fixed,-,60.0,1,episode,2,2,PASS
+fixed,-,60.0,1,episode dalam jendela,2,2,PASS
+fixed,-,60.0,1,alarm palsu,0,0,PASS
+fixed,-,60.0,1,kejadian terdeteksi,2,2,PASS
+fixed,-,60.0,3,episode,2,2,PASS
+fixed,-,60.0,3,episode dalam jendela,2,2,PASS
+fixed,-,60.0,3,alarm palsu,0,0,PASS
+fixed,-,60.0,3,kejadian terdeteksi,2,2,PASS
+fixed,-,60.0,6,episode,2,2,PASS
+fixed,-,60.0,6,episode dalam jendela,2,2,PASS
+fixed,-,60.0,6,alarm palsu,0,0,PASS
+fixed,-,60.0,6,kejadian terdeteksi,2,2,PASS
+zscore,-,2.0,1,episode,107,107,PASS
+zscore,-,2.0,1,episode dalam jendela,10,10,PASS
+zscore,-,2.0,1,alarm palsu,97,97,PASS
+zscore,-,2.0,1,kejadian terdeteksi,4,4,PASS
+zscore,-,2.0,3,episode,87,87,PASS
+zscore,-,2.0,3,episode dalam jendela,10,10,PASS
+zscore,-,2.0,3,alarm palsu,77,77,PASS
+zscore,-,2.0,3,kejadian terdeteksi,4,4,PASS
+zscore,-,2.0,6,episode,73,73,PASS
+zscore,-,2.0,6,episode dalam jendela,7,7,PASS
+zscore,-,2.0,6,alarm palsu,66,66,PASS
+zscore,-,2.0,6,kejadian terdeteksi,4,4,PASS
+zscore,-,2.25,1,episode,92,92,PASS
+zscore,-,2.25,1,episode dalam jendela,7,7,PASS
+zscore,-,2.25,1,alarm palsu,85,85,PASS
+zscore,-,2.25,1,kejadian terdeteksi,4,4,PASS
+zscore,-,2.25,3,episode,78,78,PASS
+zscore,-,2.25,3,episode dalam jendela,7,7,PASS
+zscore,-,2.25,3,alarm palsu,71,71,PASS
+zscore,-,2.25,3,kejadian terdeteksi,4,4,PASS
+zscore,-,2.25,6,episode,67,67,PASS
+zscore,-,2.25,6,episode dalam jendela,7,7,PASS
+zscore,-,2.25,6,alarm palsu,60,60,PASS
+zscore,-,2.25,6,kejadian terdeteksi,4,4,PASS
+zscore,-,2.5,1,episode,77,77,PASS
+zscore,-,2.5,1,episode dalam jendela,6,6,PASS
+zscore,-,2.5,1,alarm palsu,71,71,PASS
+zscore,-,2.5,1,kejadian terdeteksi,4,4,PASS
+zscore,-,2.5,3,episode,62,62,PASS
+zscore,-,2.5,3,episode dalam jendela,6,6,PASS
+zscore,-,2.5,3,alarm palsu,56,56,PASS
+zscore,-,2.5,3,kejadian terdeteksi,4,4,PASS
+zscore,-,2.5,6,episode,55,55,PASS
+zscore,-,2.5,6,episode dalam jendela,6,6,PASS
+zscore,-,2.5,6,alarm palsu,49,49,PASS
+zscore,-,2.5,6,kejadian terdeteksi,4,4,PASS
+zscore,-,2.75,1,episode,64,64,PASS
+zscore,-,2.75,1,episode dalam jendela,6,6,PASS
+zscore,-,2.75,1,alarm palsu,58,58,PASS
+zscore,-,2.75,1,kejadian terdeteksi,4,4,PASS
+zscore,-,2.75,3,episode,56,56,PASS
+zscore,-,2.75,3,episode dalam jendela,5,5,PASS
+zscore,-,2.75,3,alarm palsu,51,51,PASS
+zscore,-,2.75,3,kejadian terdeteksi,4,4,PASS
+zscore,-,2.75,6,episode,46,46,PASS
+zscore,-,2.75,6,episode dalam jendela,5,5,PASS
+zscore,-,2.75,6,alarm palsu,41,41,PASS
+zscore,-,2.75,6,kejadian terdeteksi,4,4,PASS
+zscore,-,3.0,1,episode,59,59,PASS
+zscore,-,3.0,1,episode dalam jendela,5,5,PASS
+zscore,-,3.0,1,alarm palsu,54,54,PASS
+zscore,-,3.0,1,kejadian terdeteksi,4,4,PASS
+zscore,-,3.0,3,episode,45,45,PASS
+zscore,-,3.0,3,episode dalam jendela,4,4,PASS
+zscore,-,3.0,3,alarm palsu,41,41,PASS
+zscore,-,3.0,3,kejadian terdeteksi,4,4,PASS
+zscore,-,3.0,6,episode,37,37,PASS
+zscore,-,3.0,6,episode dalam jendela,3,3,PASS
+zscore,-,3.0,6,alarm palsu,34,34,PASS
+zscore,-,3.0,6,kejadian terdeteksi,3,3,PASS
+zscore,-,3.25,1,episode,46,46,PASS
+zscore,-,3.25,1,episode dalam jendela,3,3,PASS
+zscore,-,3.25,1,alarm palsu,43,43,PASS
+zscore,-,3.25,1,kejadian terdeteksi,3,3,PASS
+zscore,-,3.25,3,episode,37,37,PASS
+zscore,-,3.25,3,episode dalam jendela,3,3,PASS
+zscore,-,3.25,3,alarm palsu,34,34,PASS
+zscore,-,3.25,3,kejadian terdeteksi,3,3,PASS
+zscore,-,3.25,6,episode,26,26,PASS
+zscore,-,3.25,6,episode dalam jendela,2,2,PASS
+zscore,-,3.25,6,alarm palsu,24,24,PASS
+zscore,-,3.25,6,kejadian terdeteksi,2,2,PASS
+zscore,-,3.5,1,episode,37,37,PASS
+zscore,-,3.5,1,episode dalam jendela,2,2,PASS
+zscore,-,3.5,1,alarm palsu,35,35,PASS
+zscore,-,3.5,1,kejadian terdeteksi,2,2,PASS
+zscore,-,3.5,3,episode,28,28,PASS
+zscore,-,3.5,3,episode dalam jendela,2,2,PASS
+zscore,-,3.5,3,alarm palsu,26,26,PASS
+zscore,-,3.5,3,kejadian terdeteksi,2,2,PASS
+zscore,-,3.5,6,episode,21,21,PASS
+zscore,-,3.5,6,episode dalam jendela,2,2,PASS
+zscore,-,3.5,6,alarm palsu,19,19,PASS
+zscore,-,3.5,6,kejadian terdeteksi,2,2,PASS
+zscore,-,3.75,1,episode,28,28,PASS
+zscore,-,3.75,1,episode dalam jendela,2,2,PASS
+zscore,-,3.75,1,alarm palsu,26,26,PASS
+zscore,-,3.75,1,kejadian terdeteksi,2,2,PASS
+zscore,-,3.75,3,episode,19,19,PASS
+zscore,-,3.75,3,episode dalam jendela,2,2,PASS
+zscore,-,3.75,3,alarm palsu,17,17,PASS
+zscore,-,3.75,3,kejadian terdeteksi,2,2,PASS
+zscore,-,3.75,6,episode,15,15,PASS
+zscore,-,3.75,6,episode dalam jendela,2,2,PASS
+zscore,-,3.75,6,alarm palsu,13,13,PASS
+zscore,-,3.75,6,kejadian terdeteksi,2,2,PASS
+zscore,-,4.0,1,episode,22,22,PASS
+zscore,-,4.0,1,episode dalam jendela,2,2,PASS
+zscore,-,4.0,1,alarm palsu,20,20,PASS
+zscore,-,4.0,1,kejadian terdeteksi,2,2,PASS
+zscore,-,4.0,3,episode,18,18,PASS
+zscore,-,4.0,3,episode dalam jendela,2,2,PASS
+zscore,-,4.0,3,alarm palsu,16,16,PASS
+zscore,-,4.0,3,kejadian terdeteksi,2,2,PASS
+zscore,-,4.0,6,episode,13,13,PASS
+zscore,-,4.0,6,episode dalam jendela,2,2,PASS
+zscore,-,4.0,6,alarm palsu,11,11,PASS
+zscore,-,4.0,6,kejadian terdeteksi,2,2,PASS
+zscore,-,4.25,1,episode,20,20,PASS
+zscore,-,4.25,1,episode dalam jendela,2,2,PASS
+zscore,-,4.25,1,alarm palsu,18,18,PASS
+zscore,-,4.25,1,kejadian terdeteksi,2,2,PASS
+zscore,-,4.25,3,episode,16,16,PASS
+zscore,-,4.25,3,episode dalam jendela,2,2,PASS
+zscore,-,4.25,3,alarm palsu,14,14,PASS
+zscore,-,4.25,3,kejadian terdeteksi,2,2,PASS
+zscore,-,4.25,6,episode,12,12,PASS
+zscore,-,4.25,6,episode dalam jendela,2,2,PASS
+zscore,-,4.25,6,alarm palsu,10,10,PASS
+zscore,-,4.25,6,kejadian terdeteksi,2,2,PASS
+zscore,-,4.5,1,episode,17,17,PASS
+zscore,-,4.5,1,episode dalam jendela,2,2,PASS
+zscore,-,4.5,1,alarm palsu,15,15,PASS
+zscore,-,4.5,1,kejadian terdeteksi,2,2,PASS
+zscore,-,4.5,3,episode,13,13,PASS
+zscore,-,4.5,3,episode dalam jendela,2,2,PASS
+zscore,-,4.5,3,alarm palsu,11,11,PASS
+zscore,-,4.5,3,kejadian terdeteksi,2,2,PASS
+zscore,-,4.5,6,episode,10,10,PASS
+zscore,-,4.5,6,episode dalam jendela,2,2,PASS
+zscore,-,4.5,6,alarm palsu,8,8,PASS
+zscore,-,4.5,6,kejadian terdeteksi,2,2,PASS
+zscore,-,4.75,1,episode,15,15,PASS
+zscore,-,4.75,1,episode dalam jendela,2,2,PASS
+zscore,-,4.75,1,alarm palsu,13,13,PASS
+zscore,-,4.75,1,kejadian terdeteksi,2,2,PASS
+zscore,-,4.75,3,episode,10,10,PASS
+zscore,-,4.75,3,episode dalam jendela,2,2,PASS
+zscore,-,4.75,3,alarm palsu,8,8,PASS
+zscore,-,4.75,3,kejadian terdeteksi,2,2,PASS
+zscore,-,4.75,6,episode,4,4,PASS
+zscore,-,4.75,6,episode dalam jendela,2,2,PASS
+zscore,-,4.75,6,alarm palsu,2,2,PASS
+zscore,-,4.75,6,kejadian terdeteksi,2,2,PASS
+zscore,-,5.0,1,episode,11,11,PASS
+zscore,-,5.0,1,episode dalam jendela,2,2,PASS
+zscore,-,5.0,1,alarm palsu,9,9,PASS
+zscore,-,5.0,1,kejadian terdeteksi,2,2,PASS
+zscore,-,5.0,3,episode,7,7,PASS
+zscore,-,5.0,3,episode dalam jendela,2,2,PASS
+zscore,-,5.0,3,alarm palsu,5,5,PASS
+zscore,-,5.0,3,kejadian terdeteksi,2,2,PASS
+zscore,-,5.0,6,episode,4,4,PASS
+zscore,-,5.0,6,episode dalam jendela,2,2,PASS
+zscore,-,5.0,6,alarm palsu,2,2,PASS
+zscore,-,5.0,6,kejadian terdeteksi,2,2,PASS
+zscore,-,5.25,1,episode,9,9,PASS
+zscore,-,5.25,1,episode dalam jendela,2,2,PASS
+zscore,-,5.25,1,alarm palsu,7,7,PASS
+zscore,-,5.25,1,kejadian terdeteksi,2,2,PASS
+zscore,-,5.25,3,episode,5,5,PASS
+zscore,-,5.25,3,episode dalam jendela,2,2,PASS
+zscore,-,5.25,3,alarm palsu,3,3,PASS
+zscore,-,5.25,3,kejadian terdeteksi,2,2,PASS
+zscore,-,5.25,6,episode,3,3,PASS
+zscore,-,5.25,6,episode dalam jendela,2,2,PASS
+zscore,-,5.25,6,alarm palsu,1,1,PASS
+zscore,-,5.25,6,kejadian terdeteksi,2,2,PASS
+zscore,-,5.5,1,episode,7,7,PASS
+zscore,-,5.5,1,episode dalam jendela,2,2,PASS
+zscore,-,5.5,1,alarm palsu,5,5,PASS
+zscore,-,5.5,1,kejadian terdeteksi,2,2,PASS
+zscore,-,5.5,3,episode,4,4,PASS
+zscore,-,5.5,3,episode dalam jendela,2,2,PASS
+zscore,-,5.5,3,alarm palsu,2,2,PASS
+zscore,-,5.5,3,kejadian terdeteksi,2,2,PASS
+zscore,-,5.5,6,episode,3,3,PASS
+zscore,-,5.5,6,episode dalam jendela,2,2,PASS
+zscore,-,5.5,6,alarm palsu,1,1,PASS
+zscore,-,5.5,6,kejadian terdeteksi,2,2,PASS
+zscore,-,5.75,1,episode,6,6,PASS
+zscore,-,5.75,1,episode dalam jendela,2,2,PASS
+zscore,-,5.75,1,alarm palsu,4,4,PASS
+zscore,-,5.75,1,kejadian terdeteksi,2,2,PASS
+zscore,-,5.75,3,episode,3,3,PASS
+zscore,-,5.75,3,episode dalam jendela,2,2,PASS
+zscore,-,5.75,3,alarm palsu,1,1,PASS
+zscore,-,5.75,3,kejadian terdeteksi,2,2,PASS
+zscore,-,5.75,6,episode,3,3,PASS
+zscore,-,5.75,6,episode dalam jendela,2,2,PASS
+zscore,-,5.75,6,alarm palsu,1,1,PASS
+zscore,-,5.75,6,kejadian terdeteksi,2,2,PASS
+zscore,-,6.0,1,episode,5,5,PASS
+zscore,-,6.0,1,episode dalam jendela,2,2,PASS
+zscore,-,6.0,1,alarm palsu,3,3,PASS
+zscore,-,6.0,1,kejadian terdeteksi,2,2,PASS
+zscore,-,6.0,3,episode,3,3,PASS
+zscore,-,6.0,3,episode dalam jendela,2,2,PASS
+zscore,-,6.0,3,alarm palsu,1,1,PASS
+zscore,-,6.0,3,kejadian terdeteksi,2,2,PASS
+zscore,-,6.0,6,episode,3,3,PASS
+zscore,-,6.0,6,episode dalam jendela,2,2,PASS
+zscore,-,6.0,6,alarm palsu,1,1,PASS
+zscore,-,6.0,6,kejadian terdeteksi,2,2,PASS
+zscore,-,6.25,1,episode,4,4,PASS
+zscore,-,6.25,1,episode dalam jendela,2,2,PASS
+zscore,-,6.25,1,alarm palsu,2,2,PASS
+zscore,-,6.25,1,kejadian terdeteksi,2,2,PASS
+zscore,-,6.25,3,episode,2,2,PASS
+zscore,-,6.25,3,episode dalam jendela,2,2,PASS
+zscore,-,6.25,3,alarm palsu,0,0,PASS
+zscore,-,6.25,3,kejadian terdeteksi,2,2,PASS
+zscore,-,6.25,6,episode,2,2,PASS
+zscore,-,6.25,6,episode dalam jendela,2,2,PASS
+zscore,-,6.25,6,alarm palsu,0,0,PASS
+zscore,-,6.25,6,kejadian terdeteksi,2,2,PASS
+zscore,-,6.5,1,episode,3,3,PASS
+zscore,-,6.5,1,episode dalam jendela,2,2,PASS
+zscore,-,6.5,1,alarm palsu,1,1,PASS
+zscore,-,6.5,1,kejadian terdeteksi,2,2,PASS
+zscore,-,6.5,3,episode,2,2,PASS
+zscore,-,6.5,3,episode dalam jendela,2,2,PASS
+zscore,-,6.5,3,alarm palsu,0,0,PASS
+zscore,-,6.5,3,kejadian terdeteksi,2,2,PASS
+zscore,-,6.5,6,episode,2,2,PASS
+zscore,-,6.5,6,episode dalam jendela,2,2,PASS
+zscore,-,6.5,6,alarm palsu,0,0,PASS
+zscore,-,6.5,6,kejadian terdeteksi,2,2,PASS
+zscore,-,6.75,1,episode,2,2,PASS
+zscore,-,6.75,1,episode dalam jendela,2,2,PASS
+zscore,-,6.75,1,alarm palsu,0,0,PASS
+zscore,-,6.75,1,kejadian terdeteksi,2,2,PASS
+zscore,-,6.75,3,episode,2,2,PASS
+zscore,-,6.75,3,episode dalam jendela,2,2,PASS
+zscore,-,6.75,3,alarm palsu,0,0,PASS
+zscore,-,6.75,3,kejadian terdeteksi,2,2,PASS
+zscore,-,6.75,6,episode,1,1,PASS
+zscore,-,6.75,6,episode dalam jendela,1,1,PASS
+zscore,-,6.75,6,alarm palsu,0,0,PASS
+zscore,-,6.75,6,kejadian terdeteksi,1,1,PASS
+zscore,-,7.0,1,episode,2,2,PASS
+zscore,-,7.0,1,episode dalam jendela,2,2,PASS
+zscore,-,7.0,1,alarm palsu,0,0,PASS
+zscore,-,7.0,1,kejadian terdeteksi,2,2,PASS
+zscore,-,7.0,3,episode,2,2,PASS
+zscore,-,7.0,3,episode dalam jendela,2,2,PASS
+zscore,-,7.0,3,alarm palsu,0,0,PASS
+zscore,-,7.0,3,kejadian terdeteksi,2,2,PASS
+zscore,-,7.0,6,episode,1,1,PASS
+zscore,-,7.0,6,episode dalam jendela,1,1,PASS
+zscore,-,7.0,6,alarm palsu,0,0,PASS
+zscore,-,7.0,6,kejadian terdeteksi,1,1,PASS
+iforest,value,0.567910647034905,1,episode,39,39,PASS
+iforest,value,0.567910647034905,1,episode dalam jendela,7,7,PASS
+iforest,value,0.567910647034905,1,alarm palsu,32,32,PASS
+iforest,value,0.567910647034905,1,kejadian terdeteksi,2,2,PASS
+iforest,value,0.567910647034905,3,episode,34,34,PASS
+iforest,value,0.567910647034905,3,episode dalam jendela,6,6,PASS
+iforest,value,0.567910647034905,3,alarm palsu,28,28,PASS
+iforest,value,0.567910647034905,3,kejadian terdeteksi,2,2,PASS
+iforest,value,0.567910647034905,6,episode,24,24,PASS
+iforest,value,0.567910647034905,6,episode dalam jendela,5,5,PASS
+iforest,value,0.567910647034905,6,alarm palsu,19,19,PASS
+iforest,value,0.567910647034905,6,kejadian terdeteksi,2,2,PASS
+iforest,value,0.5892181112684428,1,episode,29,29,PASS
+iforest,value,0.5892181112684428,1,episode dalam jendela,6,6,PASS
+iforest,value,0.5892181112684428,1,alarm palsu,23,23,PASS
+iforest,value,0.5892181112684428,1,kejadian terdeteksi,2,2,PASS
+iforest,value,0.5892181112684428,3,episode,21,21,PASS
+iforest,value,0.5892181112684428,3,episode dalam jendela,6,6,PASS
+iforest,value,0.5892181112684428,3,alarm palsu,15,15,PASS
+iforest,value,0.5892181112684428,3,kejadian terdeteksi,2,2,PASS
+iforest,value,0.5892181112684428,6,episode,18,18,PASS
+iforest,value,0.5892181112684428,6,episode dalam jendela,6,6,PASS
+iforest,value,0.5892181112684428,6,alarm palsu,12,12,PASS
+iforest,value,0.5892181112684428,6,kejadian terdeteksi,2,2,PASS
+iforest,value,0.607499531361687,1,episode,17,17,PASS
+iforest,value,0.607499531361687,1,episode dalam jendela,4,4,PASS
+iforest,value,0.607499531361687,1,alarm palsu,13,13,PASS
+iforest,value,0.607499531361687,1,kejadian terdeteksi,3,3,PASS
+iforest,value,0.607499531361687,3,episode,12,12,PASS
+iforest,value,0.607499531361687,3,episode dalam jendela,4,4,PASS
+iforest,value,0.607499531361687,3,alarm palsu,8,8,PASS
+iforest,value,0.607499531361687,3,kejadian terdeteksi,4,4,PASS
+iforest,value,0.607499531361687,6,episode,13,13,PASS
+iforest,value,0.607499531361687,6,episode dalam jendela,5,5,PASS
+iforest,value,0.607499531361687,6,alarm palsu,8,8,PASS
+iforest,value,0.607499531361687,6,kejadian terdeteksi,4,4,PASS
+iforest,value,0.6101289064143782,1,episode,17,17,PASS
+iforest,value,0.6101289064143782,1,episode dalam jendela,4,4,PASS
+iforest,value,0.6101289064143782,1,alarm palsu,13,13,PASS
+iforest,value,0.6101289064143782,1,kejadian terdeteksi,4,4,PASS
+iforest,value,0.6101289064143782,3,episode,13,13,PASS
+iforest,value,0.6101289064143782,3,episode dalam jendela,6,6,PASS
+iforest,value,0.6101289064143782,3,alarm palsu,7,7,PASS
+iforest,value,0.6101289064143782,3,kejadian terdeteksi,4,4,PASS
+iforest,value,0.6101289064143782,6,episode,11,11,PASS
+iforest,value,0.6101289064143782,6,episode dalam jendela,6,6,PASS
+iforest,value,0.6101289064143782,6,alarm palsu,5,5,PASS
+iforest,value,0.6101289064143782,6,kejadian terdeteksi,3,3,PASS
+iforest,value,0.6116380713662092,1,episode,23,23,PASS
+iforest,value,0.6116380713662092,1,episode dalam jendela,8,8,PASS
+iforest,value,0.6116380713662092,1,alarm palsu,15,15,PASS
+iforest,value,0.6116380713662092,1,kejadian terdeteksi,4,4,PASS
+iforest,value,0.6116380713662092,3,episode,9,9,PASS
+iforest,value,0.6116380713662092,3,episode dalam jendela,4,4,PASS
+iforest,value,0.6116380713662092,3,alarm palsu,5,5,PASS
+iforest,value,0.6116380713662092,3,kejadian terdeteksi,4,4,PASS
+iforest,value,0.6116380713662092,6,episode,8,8,PASS
+iforest,value,0.6116380713662092,6,episode dalam jendela,3,3,PASS
+iforest,value,0.6116380713662092,6,alarm palsu,5,5,PASS
+iforest,value,0.6116380713662092,6,kejadian terdeteksi,3,3,PASS
+iforest,value,0.6224953118923996,1,episode,12,12,PASS
+iforest,value,0.6224953118923996,1,episode dalam jendela,3,3,PASS
+iforest,value,0.6224953118923996,1,alarm palsu,9,9,PASS
+iforest,value,0.6224953118923996,1,kejadian terdeteksi,3,3,PASS
+iforest,value,0.6224953118923996,3,episode,6,6,PASS
+iforest,value,0.6224953118923996,3,episode dalam jendela,2,2,PASS
+iforest,value,0.6224953118923996,3,alarm palsu,4,4,PASS
+iforest,value,0.6224953118923996,3,kejadian terdeteksi,2,2,PASS
+iforest,value,0.6224953118923996,6,episode,6,6,PASS
+iforest,value,0.6224953118923996,6,episode dalam jendela,2,2,PASS
+iforest,value,0.6224953118923996,6,alarm palsu,4,4,PASS
+iforest,value,0.6224953118923996,6,kejadian terdeteksi,2,2,PASS
+iforest,value,0.6434669058643369,1,episode,6,6,PASS
+iforest,value,0.6434669058643369,1,episode dalam jendela,2,2,PASS
+iforest,value,0.6434669058643369,1,alarm palsu,4,4,PASS
+iforest,value,0.6434669058643369,1,kejadian terdeteksi,2,2,PASS
+iforest,value,0.6434669058643369,3,episode,5,5,PASS
+iforest,value,0.6434669058643369,3,episode dalam jendela,2,2,PASS
+iforest,value,0.6434669058643369,3,alarm palsu,3,3,PASS
+iforest,value,0.6434669058643369,3,kejadian terdeteksi,2,2,PASS
+iforest,value,0.6434669058643369,6,episode,5,5,PASS
+iforest,value,0.6434669058643369,6,episode dalam jendela,2,2,PASS
+iforest,value,0.6434669058643369,6,alarm palsu,3,3,PASS
+iforest,value,0.6434669058643369,6,kejadian terdeteksi,2,2,PASS
+iforest,value,0.6632171040704599,1,episode,6,6,PASS
+iforest,value,0.6632171040704599,1,episode dalam jendela,2,2,PASS
+iforest,value,0.6632171040704599,1,alarm palsu,4,4,PASS
+iforest,value,0.6632171040704599,1,kejadian terdeteksi,2,2,PASS
+iforest,value,0.6632171040704599,3,episode,5,5,PASS
+iforest,value,0.6632171040704599,3,episode dalam jendela,3,3,PASS
+iforest,value,0.6632171040704599,3,alarm palsu,2,2,PASS
+iforest,value,0.6632171040704599,3,kejadian terdeteksi,2,2,PASS
+iforest,value,0.6632171040704599,6,episode,4,4,PASS
+iforest,value,0.6632171040704599,6,episode dalam jendela,2,2,PASS
+iforest,value,0.6632171040704599,6,alarm palsu,2,2,PASS
+iforest,value,0.6632171040704599,6,kejadian terdeteksi,2,2,PASS
+iforest,value,0.7009961267695463,1,episode,3,3,PASS
+iforest,value,0.7009961267695463,1,episode dalam jendela,2,2,PASS
+iforest,value,0.7009961267695463,1,alarm palsu,1,1,PASS
+iforest,value,0.7009961267695463,1,kejadian terdeteksi,2,2,PASS
+iforest,value,0.7009961267695463,3,episode,2,2,PASS
+iforest,value,0.7009961267695463,3,episode dalam jendela,2,2,PASS
+iforest,value,0.7009961267695463,3,alarm palsu,0,0,PASS
+iforest,value,0.7009961267695463,3,kejadian terdeteksi,2,2,PASS
+iforest,value,0.7009961267695463,6,episode,2,2,PASS
+iforest,value,0.7009961267695463,6,episode dalam jendela,2,2,PASS
+iforest,value,0.7009961267695463,6,alarm palsu,0,0,PASS
+iforest,value,0.7009961267695463,6,kejadian terdeteksi,2,2,PASS
+iforest,value,0.7960049241727494,1,episode,1,1,PASS
+iforest,value,0.7960049241727494,1,episode dalam jendela,1,1,PASS
+iforest,value,0.7960049241727494,1,alarm palsu,0,0,PASS
+iforest,value,0.7960049241727494,1,kejadian terdeteksi,1,1,PASS
+iforest,value,0.7960049241727494,3,episode,1,1,PASS
+iforest,value,0.7960049241727494,3,episode dalam jendela,1,1,PASS
+iforest,value,0.7960049241727494,3,alarm palsu,0,0,PASS
+iforest,value,0.7960049241727494,3,kejadian terdeteksi,1,1,PASS
+iforest,value,0.7960049241727494,6,episode,1,1,PASS
+iforest,value,0.7960049241727494,6,episode dalam jendela,1,1,PASS
+iforest,value,0.7960049241727494,6,alarm palsu,0,0,PASS
+iforest,value,0.7960049241727494,6,kejadian terdeteksi,1,1,PASS
+iforest,value+z,0.5537382365668736,1,episode,71,71,PASS
+iforest,value+z,0.5537382365668736,1,episode dalam jendela,10,10,PASS
+iforest,value+z,0.5537382365668736,1,alarm palsu,61,61,PASS
+iforest,value+z,0.5537382365668736,1,kejadian terdeteksi,4,4,PASS
+iforest,value+z,0.5537382365668736,3,episode,66,66,PASS
+iforest,value+z,0.5537382365668736,3,episode dalam jendela,9,9,PASS
+iforest,value+z,0.5537382365668736,3,alarm palsu,57,57,PASS
+iforest,value+z,0.5537382365668736,3,kejadian terdeteksi,4,4,PASS
+iforest,value+z,0.5537382365668736,6,episode,52,52,PASS
+iforest,value+z,0.5537382365668736,6,episode dalam jendela,7,7,PASS
+iforest,value+z,0.5537382365668736,6,alarm palsu,45,45,PASS
+iforest,value+z,0.5537382365668736,6,kejadian terdeteksi,4,4,PASS
+iforest,value+z,0.5687182631780275,1,episode,66,66,PASS
+iforest,value+z,0.5687182631780275,1,episode dalam jendela,9,9,PASS
+iforest,value+z,0.5687182631780275,1,alarm palsu,57,57,PASS
+iforest,value+z,0.5687182631780275,1,kejadian terdeteksi,4,4,PASS
+iforest,value+z,0.5687182631780275,3,episode,55,55,PASS
+iforest,value+z,0.5687182631780275,3,episode dalam jendela,7,7,PASS
+iforest,value+z,0.5687182631780275,3,alarm palsu,48,48,PASS
+iforest,value+z,0.5687182631780275,3,kejadian terdeteksi,4,4,PASS
+iforest,value+z,0.5687182631780275,6,episode,43,43,PASS
+iforest,value+z,0.5687182631780275,6,episode dalam jendela,8,8,PASS
+iforest,value+z,0.5687182631780275,6,alarm palsu,35,35,PASS
+iforest,value+z,0.5687182631780275,6,kejadian terdeteksi,4,4,PASS
+iforest,value+z,0.5811860677349749,1,episode,63,63,PASS
+iforest,value+z,0.5811860677349749,1,episode dalam jendela,9,9,PASS
+iforest,value+z,0.5811860677349749,1,alarm palsu,54,54,PASS
+iforest,value+z,0.5811860677349749,1,kejadian terdeteksi,4,4,PASS
+iforest,value+z,0.5811860677349749,3,episode,50,50,PASS
+iforest,value+z,0.5811860677349749,3,episode dalam jendela,8,8,PASS
+iforest,value+z,0.5811860677349749,3,alarm palsu,42,42,PASS
+iforest,value+z,0.5811860677349749,3,kejadian terdeteksi,4,4,PASS
+iforest,value+z,0.5811860677349749,6,episode,39,39,PASS
+iforest,value+z,0.5811860677349749,6,episode dalam jendela,7,7,PASS
+iforest,value+z,0.5811860677349749,6,alarm palsu,32,32,PASS
+iforest,value+z,0.5811860677349749,6,kejadian terdeteksi,4,4,PASS
+iforest,value+z,0.5893617033247549,1,episode,54,54,PASS
+iforest,value+z,0.5893617033247549,1,episode dalam jendela,7,7,PASS
+iforest,value+z,0.5893617033247549,1,alarm palsu,47,47,PASS
+iforest,value+z,0.5893617033247549,1,kejadian terdeteksi,4,4,PASS
+iforest,value+z,0.5893617033247549,3,episode,47,47,PASS
+iforest,value+z,0.5893617033247549,3,episode dalam jendela,7,7,PASS
+iforest,value+z,0.5893617033247549,3,alarm palsu,40,40,PASS
+iforest,value+z,0.5893617033247549,3,kejadian terdeteksi,4,4,PASS
+iforest,value+z,0.5893617033247549,6,episode,36,36,PASS
+iforest,value+z,0.5893617033247549,6,episode dalam jendela,7,7,PASS
+iforest,value+z,0.5893617033247549,6,alarm palsu,29,29,PASS
+iforest,value+z,0.5893617033247549,6,kejadian terdeteksi,4,4,PASS
+iforest,value+z,0.6064716180563988,1,episode,47,47,PASS
+iforest,value+z,0.6064716180563988,1,episode dalam jendela,7,7,PASS
+iforest,value+z,0.6064716180563988,1,alarm palsu,40,40,PASS
+iforest,value+z,0.6064716180563988,1,kejadian terdeteksi,4,4,PASS
+iforest,value+z,0.6064716180563988,3,episode,34,34,PASS
+iforest,value+z,0.6064716180563988,3,episode dalam jendela,6,6,PASS
+iforest,value+z,0.6064716180563988,3,alarm palsu,28,28,PASS
+iforest,value+z,0.6064716180563988,3,kejadian terdeteksi,4,4,PASS
+iforest,value+z,0.6064716180563988,6,episode,24,24,PASS
+iforest,value+z,0.6064716180563988,6,episode dalam jendela,6,6,PASS
+iforest,value+z,0.6064716180563988,6,alarm palsu,18,18,PASS
+iforest,value+z,0.6064716180563988,6,kejadian terdeteksi,4,4,PASS
+iforest,value+z,0.623518885606392,1,episode,36,36,PASS
+iforest,value+z,0.623518885606392,1,episode dalam jendela,6,6,PASS
+iforest,value+z,0.623518885606392,1,alarm palsu,30,30,PASS
+iforest,value+z,0.623518885606392,1,kejadian terdeteksi,4,4,PASS
+iforest,value+z,0.623518885606392,3,episode,27,27,PASS
+iforest,value+z,0.623518885606392,3,episode dalam jendela,6,6,PASS
+iforest,value+z,0.623518885606392,3,alarm palsu,21,21,PASS
+iforest,value+z,0.623518885606392,3,kejadian terdeteksi,4,4,PASS
+iforest,value+z,0.623518885606392,6,episode,18,18,PASS
+iforest,value+z,0.623518885606392,6,episode dalam jendela,5,5,PASS
+iforest,value+z,0.623518885606392,6,alarm palsu,13,13,PASS
+iforest,value+z,0.623518885606392,6,kejadian terdeteksi,4,4,PASS
+iforest,value+z,0.6344254656649898,1,episode,27,27,PASS
+iforest,value+z,0.6344254656649898,1,episode dalam jendela,5,5,PASS
+iforest,value+z,0.6344254656649898,1,alarm palsu,22,22,PASS
+iforest,value+z,0.6344254656649898,1,kejadian terdeteksi,4,4,PASS
+iforest,value+z,0.6344254656649898,3,episode,22,22,PASS
+iforest,value+z,0.6344254656649898,3,episode dalam jendela,5,5,PASS
+iforest,value+z,0.6344254656649898,3,alarm palsu,17,17,PASS
+iforest,value+z,0.6344254656649898,3,kejadian terdeteksi,4,4,PASS
+iforest,value+z,0.6344254656649898,6,episode,15,15,PASS
+iforest,value+z,0.6344254656649898,6,episode dalam jendela,5,5,PASS
+iforest,value+z,0.6344254656649898,6,alarm palsu,10,10,PASS
+iforest,value+z,0.6344254656649898,6,kejadian terdeteksi,4,4,PASS
+iforest,value+z,0.6461586849895773,1,episode,23,23,PASS
+iforest,value+z,0.6461586849895773,1,episode dalam jendela,5,5,PASS
+iforest,value+z,0.6461586849895773,1,alarm palsu,18,18,PASS
+iforest,value+z,0.6461586849895773,1,kejadian terdeteksi,4,4,PASS
+iforest,value+z,0.6461586849895773,3,episode,15,15,PASS
+iforest,value+z,0.6461586849895773,3,episode dalam jendela,4,4,PASS
+iforest,value+z,0.6461586849895773,3,alarm palsu,11,11,PASS
+iforest,value+z,0.6461586849895773,3,kejadian terdeteksi,3,3,PASS
+iforest,value+z,0.6461586849895773,6,episode,12,12,PASS
+iforest,value+z,0.6461586849895773,6,episode dalam jendela,3,3,PASS
+iforest,value+z,0.6461586849895773,6,alarm palsu,9,9,PASS
+iforest,value+z,0.6461586849895773,6,kejadian terdeteksi,2,2,PASS
+iforest,value+z,0.6659190157956787,1,episode,15,15,PASS
+iforest,value+z,0.6659190157956787,1,episode dalam jendela,3,3,PASS
+iforest,value+z,0.6659190157956787,1,alarm palsu,12,12,PASS
+iforest,value+z,0.6659190157956787,1,kejadian terdeteksi,2,2,PASS
+iforest,value+z,0.6659190157956787,3,episode,9,9,PASS
+iforest,value+z,0.6659190157956787,3,episode dalam jendela,3,3,PASS
+iforest,value+z,0.6659190157956787,3,alarm palsu,6,6,PASS
+iforest,value+z,0.6659190157956787,3,kejadian terdeteksi,2,2,PASS
+iforest,value+z,0.6659190157956787,6,episode,6,6,PASS
+iforest,value+z,0.6659190157956787,6,episode dalam jendela,4,4,PASS
+iforest,value+z,0.6659190157956787,6,alarm palsu,2,2,PASS
+iforest,value+z,0.6659190157956787,6,kejadian terdeteksi,2,2,PASS
+iforest,value+z,0.7135759314363853,1,episode,2,2,PASS
+iforest,value+z,0.7135759314363853,1,episode dalam jendela,2,2,PASS
+iforest,value+z,0.7135759314363853,1,alarm palsu,0,0,PASS
+iforest,value+z,0.7135759314363853,1,kejadian terdeteksi,2,2,PASS
+iforest,value+z,0.7135759314363853,3,episode,1,1,PASS
+iforest,value+z,0.7135759314363853,3,episode dalam jendela,1,1,PASS
+iforest,value+z,0.7135759314363853,3,alarm palsu,0,0,PASS
+iforest,value+z,0.7135759314363853,3,kejadian terdeteksi,1,1,PASS
+iforest,value+z,0.7135759314363853,6,episode,1,1,PASS
+iforest,value+z,0.7135759314363853,6,episode dalam jendela,1,1,PASS
+iforest,value+z,0.7135759314363853,6,alarm palsu,0,0,PASS
+iforest,value+z,0.7135759314363853,6,kejadian terdeteksi,1,1,PASS
+iforest,value+z+std,0.5546615265004843,1,episode,59,59,PASS
+iforest,value+z+std,0.5546615265004843,1,episode dalam jendela,6,6,PASS
+iforest,value+z+std,0.5546615265004843,1,alarm palsu,53,53,PASS
+iforest,value+z+std,0.5546615265004843,1,kejadian terdeteksi,3,3,PASS
+iforest,value+z+std,0.5546615265004843,3,episode,41,41,PASS
+iforest,value+z+std,0.5546615265004843,3,episode dalam jendela,7,7,PASS
+iforest,value+z+std,0.5546615265004843,3,alarm palsu,34,34,PASS
+iforest,value+z+std,0.5546615265004843,3,kejadian terdeteksi,3,3,PASS
+iforest,value+z+std,0.5546615265004843,6,episode,30,30,PASS
+iforest,value+z+std,0.5546615265004843,6,episode dalam jendela,7,7,PASS
+iforest,value+z+std,0.5546615265004843,6,alarm palsu,23,23,PASS
+iforest,value+z+std,0.5546615265004843,6,kejadian terdeteksi,3,3,PASS
+iforest,value+z+std,0.5786434911340399,1,episode,32,32,PASS
+iforest,value+z+std,0.5786434911340399,1,episode dalam jendela,4,4,PASS
+iforest,value+z+std,0.5786434911340399,1,alarm palsu,28,28,PASS
+iforest,value+z+std,0.5786434911340399,1,kejadian terdeteksi,3,3,PASS
+iforest,value+z+std,0.5786434911340399,3,episode,25,25,PASS
+iforest,value+z+std,0.5786434911340399,3,episode dalam jendela,4,4,PASS
+iforest,value+z+std,0.5786434911340399,3,alarm palsu,21,21,PASS
+iforest,value+z+std,0.5786434911340399,3,kejadian terdeteksi,3,3,PASS
+iforest,value+z+std,0.5786434911340399,6,episode,21,21,PASS
+iforest,value+z+std,0.5786434911340399,6,episode dalam jendela,4,4,PASS
+iforest,value+z+std,0.5786434911340399,6,alarm palsu,17,17,PASS
+iforest,value+z+std,0.5786434911340399,6,kejadian terdeteksi,3,3,PASS
+iforest,value+z+std,0.5963105883656075,1,episode,25,25,PASS
+iforest,value+z+std,0.5963105883656075,1,episode dalam jendela,5,5,PASS
+iforest,value+z+std,0.5963105883656075,1,alarm palsu,20,20,PASS
+iforest,value+z+std,0.5963105883656075,1,kejadian terdeteksi,3,3,PASS
+iforest,value+z+std,0.5963105883656075,3,episode,20,20,PASS
+iforest,value+z+std,0.5963105883656075,3,episode dalam jendela,6,6,PASS
+iforest,value+z+std,0.5963105883656075,3,alarm palsu,14,14,PASS
+iforest,value+z+std,0.5963105883656075,3,kejadian terdeteksi,4,4,PASS
+iforest,value+z+std,0.5963105883656075,6,episode,13,13,PASS
+iforest,value+z+std,0.5963105883656075,6,episode dalam jendela,5,5,PASS
+iforest,value+z+std,0.5963105883656075,6,alarm palsu,8,8,PASS
+iforest,value+z+std,0.5963105883656075,6,kejadian terdeteksi,3,3,PASS
+iforest,value+z+std,0.6063064060616148,1,episode,18,18,PASS
+iforest,value+z+std,0.6063064060616148,1,episode dalam jendela,6,6,PASS
+iforest,value+z+std,0.6063064060616148,1,alarm palsu,12,12,PASS
+iforest,value+z+std,0.6063064060616148,1,kejadian terdeteksi,4,4,PASS
+iforest,value+z+std,0.6063064060616148,3,episode,13,13,PASS
+iforest,value+z+std,0.6063064060616148,3,episode dalam jendela,6,6,PASS
+iforest,value+z+std,0.6063064060616148,3,alarm palsu,7,7,PASS
+iforest,value+z+std,0.6063064060616148,3,kejadian terdeteksi,3,3,PASS
+iforest,value+z+std,0.6063064060616148,6,episode,10,10,PASS
+iforest,value+z+std,0.6063064060616148,6,episode dalam jendela,7,7,PASS
+iforest,value+z+std,0.6063064060616148,6,alarm palsu,3,3,PASS
+iforest,value+z+std,0.6063064060616148,6,kejadian terdeteksi,3,3,PASS
+iforest,value+z+std,0.6199794454929018,1,episode,14,14,PASS
+iforest,value+z+std,0.6199794454929018,1,episode dalam jendela,8,8,PASS
+iforest,value+z+std,0.6199794454929018,1,alarm palsu,6,6,PASS
+iforest,value+z+std,0.6199794454929018,1,kejadian terdeteksi,3,3,PASS
+iforest,value+z+std,0.6199794454929018,3,episode,10,10,PASS
+iforest,value+z+std,0.6199794454929018,3,episode dalam jendela,7,7,PASS
+iforest,value+z+std,0.6199794454929018,3,alarm palsu,3,3,PASS
+iforest,value+z+std,0.6199794454929018,3,kejadian terdeteksi,2,2,PASS
+iforest,value+z+std,0.6199794454929018,6,episode,11,11,PASS
+iforest,value+z+std,0.6199794454929018,6,episode dalam jendela,6,6,PASS
+iforest,value+z+std,0.6199794454929018,6,alarm palsu,5,5,PASS
+iforest,value+z+std,0.6199794454929018,6,kejadian terdeteksi,2,2,PASS
+iforest,value+z+std,0.6268318514037637,1,episode,15,15,PASS
+iforest,value+z+std,0.6268318514037637,1,episode dalam jendela,9,9,PASS
+iforest,value+z+std,0.6268318514037637,1,alarm palsu,6,6,PASS
+iforest,value+z+std,0.6268318514037637,1,kejadian terdeteksi,2,2,PASS
+iforest,value+z+std,0.6268318514037637,3,episode,11,11,PASS
+iforest,value+z+std,0.6268318514037637,3,episode dalam jendela,8,8,PASS
+iforest,value+z+std,0.6268318514037637,3,alarm palsu,3,3,PASS
+iforest,value+z+std,0.6268318514037637,3,kejadian terdeteksi,2,2,PASS
+iforest,value+z+std,0.6268318514037637,6,episode,9,9,PASS
+iforest,value+z+std,0.6268318514037637,6,episode dalam jendela,5,5,PASS
+iforest,value+z+std,0.6268318514037637,6,alarm palsu,4,4,PASS
+iforest,value+z+std,0.6268318514037637,6,kejadian terdeteksi,2,2,PASS
+iforest,value+z+std,0.6318420493792404,1,episode,13,13,PASS
+iforest,value+z+std,0.6318420493792404,1,episode dalam jendela,8,8,PASS
+iforest,value+z+std,0.6318420493792404,1,alarm palsu,5,5,PASS
+iforest,value+z+std,0.6318420493792404,1,kejadian terdeteksi,2,2,PASS
+iforest,value+z+std,0.6318420493792404,3,episode,8,8,PASS
+iforest,value+z+std,0.6318420493792404,3,episode dalam jendela,5,5,PASS
+iforest,value+z+std,0.6318420493792404,3,alarm palsu,3,3,PASS
+iforest,value+z+std,0.6318420493792404,3,kejadian terdeteksi,2,2,PASS
+iforest,value+z+std,0.6318420493792404,6,episode,8,8,PASS
+iforest,value+z+std,0.6318420493792404,6,episode dalam jendela,6,6,PASS
+iforest,value+z+std,0.6318420493792404,6,alarm palsu,2,2,PASS
+iforest,value+z+std,0.6318420493792404,6,kejadian terdeteksi,2,2,PASS
+iforest,value+z+std,0.6361774668899014,1,episode,9,9,PASS
+iforest,value+z+std,0.6361774668899014,1,episode dalam jendela,5,5,PASS
+iforest,value+z+std,0.6361774668899014,1,alarm palsu,4,4,PASS
+iforest,value+z+std,0.6361774668899014,1,kejadian terdeteksi,2,2,PASS
+iforest,value+z+std,0.6361774668899014,3,episode,9,9,PASS
+iforest,value+z+std,0.6361774668899014,3,episode dalam jendela,6,6,PASS
+iforest,value+z+std,0.6361774668899014,3,alarm palsu,3,3,PASS
+iforest,value+z+std,0.6361774668899014,3,kejadian terdeteksi,2,2,PASS
+iforest,value+z+std,0.6361774668899014,6,episode,10,10,PASS
+iforest,value+z+std,0.6361774668899014,6,episode dalam jendela,9,9,PASS
+iforest,value+z+std,0.6361774668899014,6,alarm palsu,1,1,PASS
+iforest,value+z+std,0.6361774668899014,6,kejadian terdeteksi,2,2,PASS
+iforest,value+z+std,0.6611126740322273,1,episode,3,3,PASS
+iforest,value+z+std,0.6611126740322273,1,episode dalam jendela,3,3,PASS
+iforest,value+z+std,0.6611126740322273,1,alarm palsu,0,0,PASS
+iforest,value+z+std,0.6611126740322273,1,kejadian terdeteksi,2,2,PASS
+iforest,value+z+std,0.6611126740322273,3,episode,2,2,PASS
+iforest,value+z+std,0.6611126740322273,3,episode dalam jendela,2,2,PASS
+iforest,value+z+std,0.6611126740322273,3,alarm palsu,0,0,PASS
+iforest,value+z+std,0.6611126740322273,3,kejadian terdeteksi,1,1,PASS
+iforest,value+z+std,0.6611126740322273,6,episode,1,1,PASS
+iforest,value+z+std,0.6611126740322273,6,episode dalam jendela,1,1,PASS
+iforest,value+z+std,0.6611126740322273,6,alarm palsu,0,0,PASS
+iforest,value+z+std,0.6611126740322273,6,kejadian terdeteksi,1,1,PASS
+iforest,value+z+std,0.7126400655495833,1,episode,1,1,PASS
+iforest,value+z+std,0.7126400655495833,1,episode dalam jendela,1,1,PASS
+iforest,value+z+std,0.7126400655495833,1,alarm palsu,0,0,PASS
+iforest,value+z+std,0.7126400655495833,1,kejadian terdeteksi,1,1,PASS
+iforest,value+z+std,0.7126400655495833,3,episode,1,1,PASS
+iforest,value+z+std,0.7126400655495833,3,episode dalam jendela,1,1,PASS
+iforest,value+z+std,0.7126400655495833,3,alarm palsu,0,0,PASS
+iforest,value+z+std,0.7126400655495833,3,kejadian terdeteksi,1,1,PASS
+iforest,value+z+std,0.7126400655495833,6,episode,1,1,PASS
+iforest,value+z+std,0.7126400655495833,6,episode dalam jendela,1,1,PASS
+iforest,value+z+std,0.7126400655495833,6,alarm palsu,0,0,PASS
+iforest,value+z+std,0.7126400655495833,6,kejadian terdeteksi,1,1,PASS
+iforest,value+z+slope,0.5318726879511286,1,episode,79,79,PASS
+iforest,value+z+slope,0.5318726879511286,1,episode dalam jendela,8,8,PASS
+iforest,value+z+slope,0.5318726879511286,1,alarm palsu,71,71,PASS
+iforest,value+z+slope,0.5318726879511286,1,kejadian terdeteksi,4,4,PASS
+iforest,value+z+slope,0.5318726879511286,3,episode,61,61,PASS
+iforest,value+z+slope,0.5318726879511286,3,episode dalam jendela,9,9,PASS
+iforest,value+z+slope,0.5318726879511286,3,alarm palsu,52,52,PASS
+iforest,value+z+slope,0.5318726879511286,3,kejadian terdeteksi,4,4,PASS
+iforest,value+z+slope,0.5318726879511286,6,episode,50,50,PASS
+iforest,value+z+slope,0.5318726879511286,6,episode dalam jendela,8,8,PASS
+iforest,value+z+slope,0.5318726879511286,6,alarm palsu,42,42,PASS
+iforest,value+z+slope,0.5318726879511286,6,kejadian terdeteksi,4,4,PASS
+iforest,value+z+slope,0.5424140891895036,1,episode,67,67,PASS
+iforest,value+z+slope,0.5424140891895036,1,episode dalam jendela,10,10,PASS
+iforest,value+z+slope,0.5424140891895036,1,alarm palsu,57,57,PASS
+iforest,value+z+slope,0.5424140891895036,1,kejadian terdeteksi,4,4,PASS
+iforest,value+z+slope,0.5424140891895036,3,episode,55,55,PASS
+iforest,value+z+slope,0.5424140891895036,3,episode dalam jendela,9,9,PASS
+iforest,value+z+slope,0.5424140891895036,3,alarm palsu,46,46,PASS
+iforest,value+z+slope,0.5424140891895036,3,kejadian terdeteksi,4,4,PASS
+iforest,value+z+slope,0.5424140891895036,6,episode,46,46,PASS
+iforest,value+z+slope,0.5424140891895036,6,episode dalam jendela,8,8,PASS
+iforest,value+z+slope,0.5424140891895036,6,alarm palsu,38,38,PASS
+iforest,value+z+slope,0.5424140891895036,6,kejadian terdeteksi,4,4,PASS
+iforest,value+z+slope,0.5570959267299392,1,episode,52,52,PASS
+iforest,value+z+slope,0.5570959267299392,1,episode dalam jendela,7,7,PASS
+iforest,value+z+slope,0.5570959267299392,1,alarm palsu,45,45,PASS
+iforest,value+z+slope,0.5570959267299392,1,kejadian terdeteksi,4,4,PASS
+iforest,value+z+slope,0.5570959267299392,3,episode,41,41,PASS
+iforest,value+z+slope,0.5570959267299392,3,episode dalam jendela,9,9,PASS
+iforest,value+z+slope,0.5570959267299392,3,alarm palsu,32,32,PASS
+iforest,value+z+slope,0.5570959267299392,3,kejadian terdeteksi,4,4,PASS
+iforest,value+z+slope,0.5570959267299392,6,episode,34,34,PASS
+iforest,value+z+slope,0.5570959267299392,6,episode dalam jendela,9,9,PASS
+iforest,value+z+slope,0.5570959267299392,6,alarm palsu,25,25,PASS
+iforest,value+z+slope,0.5570959267299392,6,kejadian terdeteksi,4,4,PASS
+iforest,value+z+slope,0.5731553878015608,1,episode,37,37,PASS
+iforest,value+z+slope,0.5731553878015608,1,episode dalam jendela,8,8,PASS
+iforest,value+z+slope,0.5731553878015608,1,alarm palsu,29,29,PASS
+iforest,value+z+slope,0.5731553878015608,1,kejadian terdeteksi,4,4,PASS
+iforest,value+z+slope,0.5731553878015608,3,episode,33,33,PASS
+iforest,value+z+slope,0.5731553878015608,3,episode dalam jendela,8,8,PASS
+iforest,value+z+slope,0.5731553878015608,3,alarm palsu,25,25,PASS
+iforest,value+z+slope,0.5731553878015608,3,kejadian terdeteksi,4,4,PASS
+iforest,value+z+slope,0.5731553878015608,6,episode,23,23,PASS
+iforest,value+z+slope,0.5731553878015608,6,episode dalam jendela,7,7,PASS
+iforest,value+z+slope,0.5731553878015608,6,alarm palsu,16,16,PASS
+iforest,value+z+slope,0.5731553878015608,6,kejadian terdeteksi,4,4,PASS
+iforest,value+z+slope,0.597539829411353,1,episode,24,24,PASS
+iforest,value+z+slope,0.597539829411353,1,episode dalam jendela,6,6,PASS
+iforest,value+z+slope,0.597539829411353,1,alarm palsu,18,18,PASS
+iforest,value+z+slope,0.597539829411353,1,kejadian terdeteksi,3,3,PASS
+iforest,value+z+slope,0.597539829411353,3,episode,19,19,PASS
+iforest,value+z+slope,0.597539829411353,3,episode dalam jendela,6,6,PASS
+iforest,value+z+slope,0.597539829411353,3,alarm palsu,13,13,PASS
+iforest,value+z+slope,0.597539829411353,3,kejadian terdeteksi,3,3,PASS
+iforest,value+z+slope,0.597539829411353,6,episode,18,18,PASS
+iforest,value+z+slope,0.597539829411353,6,episode dalam jendela,6,6,PASS
+iforest,value+z+slope,0.597539829411353,6,alarm palsu,12,12,PASS
+iforest,value+z+slope,0.597539829411353,6,kejadian terdeteksi,3,3,PASS
+iforest,value+z+slope,0.6193797745214996,1,episode,15,15,PASS
+iforest,value+z+slope,0.6193797745214996,1,episode dalam jendela,6,6,PASS
+iforest,value+z+slope,0.6193797745214996,1,alarm palsu,9,9,PASS
+iforest,value+z+slope,0.6193797745214996,1,kejadian terdeteksi,3,3,PASS
+iforest,value+z+slope,0.6193797745214996,3,episode,16,16,PASS
+iforest,value+z+slope,0.6193797745214996,3,episode dalam jendela,8,8,PASS
+iforest,value+z+slope,0.6193797745214996,3,alarm palsu,8,8,PASS
+iforest,value+z+slope,0.6193797745214996,3,kejadian terdeteksi,3,3,PASS
+iforest,value+z+slope,0.6193797745214996,6,episode,17,17,PASS
+iforest,value+z+slope,0.6193797745214996,6,episode dalam jendela,10,10,PASS
+iforest,value+z+slope,0.6193797745214996,6,alarm palsu,7,7,PASS
+iforest,value+z+slope,0.6193797745214996,6,kejadian terdeteksi,3,3,PASS
+iforest,value+z+slope,0.6359520652044517,1,episode,13,13,PASS
+iforest,value+z+slope,0.6359520652044517,1,episode dalam jendela,6,6,PASS
+iforest,value+z+slope,0.6359520652044517,1,alarm palsu,7,7,PASS
+iforest,value+z+slope,0.6359520652044517,1,kejadian terdeteksi,3,3,PASS
+iforest,value+z+slope,0.6359520652044517,3,episode,14,14,PASS
+iforest,value+z+slope,0.6359520652044517,3,episode dalam jendela,7,7,PASS
+iforest,value+z+slope,0.6359520652044517,3,alarm palsu,7,7,PASS
+iforest,value+z+slope,0.6359520652044517,3,kejadian terdeteksi,3,3,PASS
+iforest,value+z+slope,0.6359520652044517,6,episode,12,12,PASS
+iforest,value+z+slope,0.6359520652044517,6,episode dalam jendela,6,6,PASS
+iforest,value+z+slope,0.6359520652044517,6,alarm palsu,6,6,PASS
+iforest,value+z+slope,0.6359520652044517,6,kejadian terdeteksi,3,3,PASS
+iforest,value+z+slope,0.65151830095512,1,episode,9,9,PASS
+iforest,value+z+slope,0.65151830095512,1,episode dalam jendela,4,4,PASS
+iforest,value+z+slope,0.65151830095512,1,alarm palsu,5,5,PASS
+iforest,value+z+slope,0.65151830095512,1,kejadian terdeteksi,2,2,PASS
+iforest,value+z+slope,0.65151830095512,3,episode,8,8,PASS
+iforest,value+z+slope,0.65151830095512,3,episode dalam jendela,4,4,PASS
+iforest,value+z+slope,0.65151830095512,3,alarm palsu,4,4,PASS
+iforest,value+z+slope,0.65151830095512,3,kejadian terdeteksi,2,2,PASS
+iforest,value+z+slope,0.65151830095512,6,episode,8,8,PASS
+iforest,value+z+slope,0.65151830095512,6,episode dalam jendela,4,4,PASS
+iforest,value+z+slope,0.65151830095512,6,alarm palsu,4,4,PASS
+iforest,value+z+slope,0.65151830095512,6,kejadian terdeteksi,2,2,PASS
+iforest,value+z+slope,0.6852024927913329,1,episode,3,3,PASS
+iforest,value+z+slope,0.6852024927913329,1,episode dalam jendela,3,3,PASS
+iforest,value+z+slope,0.6852024927913329,1,alarm palsu,0,0,PASS
+iforest,value+z+slope,0.6852024927913329,1,kejadian terdeteksi,2,2,PASS
+iforest,value+z+slope,0.6852024927913329,3,episode,3,3,PASS
+iforest,value+z+slope,0.6852024927913329,3,episode dalam jendela,3,3,PASS
+iforest,value+z+slope,0.6852024927913329,3,alarm palsu,0,0,PASS
+iforest,value+z+slope,0.6852024927913329,3,kejadian terdeteksi,2,2,PASS
+iforest,value+z+slope,0.6852024927913329,6,episode,3,3,PASS
+iforest,value+z+slope,0.6852024927913329,6,episode dalam jendela,3,3,PASS
+iforest,value+z+slope,0.6852024927913329,6,alarm palsu,0,0,PASS
+iforest,value+z+slope,0.6852024927913329,6,kejadian terdeteksi,2,2,PASS
+iforest,value+z+slope,0.7100612604222567,1,episode,2,2,PASS
+iforest,value+z+slope,0.7100612604222567,1,episode dalam jendela,2,2,PASS
+iforest,value+z+slope,0.7100612604222567,1,alarm palsu,0,0,PASS
+iforest,value+z+slope,0.7100612604222567,1,kejadian terdeteksi,1,1,PASS
+iforest,value+z+slope,0.7100612604222567,3,episode,1,1,PASS
+iforest,value+z+slope,0.7100612604222567,3,episode dalam jendela,1,1,PASS
+iforest,value+z+slope,0.7100612604222567,3,alarm palsu,0,0,PASS
+iforest,value+z+slope,0.7100612604222567,3,kejadian terdeteksi,1,1,PASS
+iforest,value+z+slope,0.7100612604222567,6,episode,1,1,PASS
+iforest,value+z+slope,0.7100612604222567,6,episode dalam jendela,1,1,PASS
+iforest,value+z+slope,0.7100612604222567,6,alarm palsu,0,0,PASS
+iforest,value+z+slope,0.7100612604222567,6,kejadian terdeteksi,1,1,PASS
+iforest,semua fitur,0.5178143912622003,1,episode,55,55,PASS
+iforest,semua fitur,0.5178143912622003,1,episode dalam jendela,5,5,PASS
+iforest,semua fitur,0.5178143912622003,1,alarm palsu,50,50,PASS
+iforest,semua fitur,0.5178143912622003,1,kejadian terdeteksi,3,3,PASS
+iforest,semua fitur,0.5178143912622003,3,episode,41,41,PASS
+iforest,semua fitur,0.5178143912622003,3,episode dalam jendela,4,4,PASS
+iforest,semua fitur,0.5178143912622003,3,alarm palsu,37,37,PASS
+iforest,semua fitur,0.5178143912622003,3,kejadian terdeteksi,3,3,PASS
+iforest,semua fitur,0.5178143912622003,6,episode,31,31,PASS
+iforest,semua fitur,0.5178143912622003,6,episode dalam jendela,4,4,PASS
+iforest,semua fitur,0.5178143912622003,6,alarm palsu,27,27,PASS
+iforest,semua fitur,0.5178143912622003,6,kejadian terdeteksi,3,3,PASS
+iforest,semua fitur,0.5758284359895943,1,episode,18,18,PASS
+iforest,semua fitur,0.5758284359895943,1,episode dalam jendela,6,6,PASS
+iforest,semua fitur,0.5758284359895943,1,alarm palsu,12,12,PASS
+iforest,semua fitur,0.5758284359895943,1,kejadian terdeteksi,4,4,PASS
+iforest,semua fitur,0.5758284359895943,3,episode,15,15,PASS
+iforest,semua fitur,0.5758284359895943,3,episode dalam jendela,6,6,PASS
+iforest,semua fitur,0.5758284359895943,3,alarm palsu,9,9,PASS
+iforest,semua fitur,0.5758284359895943,3,kejadian terdeteksi,3,3,PASS
+iforest,semua fitur,0.5758284359895943,6,episode,15,15,PASS
+iforest,semua fitur,0.5758284359895943,6,episode dalam jendela,7,7,PASS
+iforest,semua fitur,0.5758284359895943,6,alarm palsu,8,8,PASS
+iforest,semua fitur,0.5758284359895943,6,kejadian terdeteksi,3,3,PASS
+iforest,semua fitur,0.5961002650057852,1,episode,15,15,PASS
+iforest,semua fitur,0.5961002650057852,1,episode dalam jendela,5,5,PASS
+iforest,semua fitur,0.5961002650057852,1,alarm palsu,10,10,PASS
+iforest,semua fitur,0.5961002650057852,1,kejadian terdeteksi,3,3,PASS
+iforest,semua fitur,0.5961002650057852,3,episode,15,15,PASS
+iforest,semua fitur,0.5961002650057852,3,episode dalam jendela,6,6,PASS
+iforest,semua fitur,0.5961002650057852,3,alarm palsu,9,9,PASS
+iforest,semua fitur,0.5961002650057852,3,kejadian terdeteksi,3,3,PASS
+iforest,semua fitur,0.5961002650057852,6,episode,18,18,PASS
+iforest,semua fitur,0.5961002650057852,6,episode dalam jendela,9,9,PASS
+iforest,semua fitur,0.5961002650057852,6,alarm palsu,9,9,PASS
+iforest,semua fitur,0.5961002650057852,6,kejadian terdeteksi,3,3,PASS
+iforest,semua fitur,0.6010068693590495,1,episode,17,17,PASS
+iforest,semua fitur,0.6010068693590495,1,episode dalam jendela,7,7,PASS
+iforest,semua fitur,0.6010068693590495,1,alarm palsu,10,10,PASS
+iforest,semua fitur,0.6010068693590495,1,kejadian terdeteksi,3,3,PASS
+iforest,semua fitur,0.6010068693590495,3,episode,15,15,PASS
+iforest,semua fitur,0.6010068693590495,3,episode dalam jendela,6,6,PASS
+iforest,semua fitur,0.6010068693590495,3,alarm palsu,9,9,PASS
+iforest,semua fitur,0.6010068693590495,3,kejadian terdeteksi,3,3,PASS
+iforest,semua fitur,0.6010068693590495,6,episode,15,15,PASS
+iforest,semua fitur,0.6010068693590495,6,episode dalam jendela,6,6,PASS
+iforest,semua fitur,0.6010068693590495,6,alarm palsu,9,9,PASS
+iforest,semua fitur,0.6010068693590495,6,kejadian terdeteksi,3,3,PASS
+iforest,semua fitur,0.6130299031188406,1,episode,12,12,PASS
+iforest,semua fitur,0.6130299031188406,1,episode dalam jendela,5,5,PASS
+iforest,semua fitur,0.6130299031188406,1,alarm palsu,7,7,PASS
+iforest,semua fitur,0.6130299031188406,1,kejadian terdeteksi,3,3,PASS
+iforest,semua fitur,0.6130299031188406,3,episode,12,12,PASS
+iforest,semua fitur,0.6130299031188406,3,episode dalam jendela,6,6,PASS
+iforest,semua fitur,0.6130299031188406,3,alarm palsu,6,6,PASS
+iforest,semua fitur,0.6130299031188406,3,kejadian terdeteksi,3,3,PASS
+iforest,semua fitur,0.6130299031188406,6,episode,12,12,PASS
+iforest,semua fitur,0.6130299031188406,6,episode dalam jendela,6,6,PASS
+iforest,semua fitur,0.6130299031188406,6,alarm palsu,6,6,PASS
+iforest,semua fitur,0.6130299031188406,6,kejadian terdeteksi,3,3,PASS
+iforest,semua fitur,0.6315180318501618,1,episode,11,11,PASS
+iforest,semua fitur,0.6315180318501618,1,episode dalam jendela,6,6,PASS
+iforest,semua fitur,0.6315180318501618,1,alarm palsu,5,5,PASS
+iforest,semua fitur,0.6315180318501618,1,kejadian terdeteksi,3,3,PASS
+iforest,semua fitur,0.6315180318501618,3,episode,10,10,PASS
+iforest,semua fitur,0.6315180318501618,3,episode dalam jendela,6,6,PASS
+iforest,semua fitur,0.6315180318501618,3,alarm palsu,4,4,PASS
+iforest,semua fitur,0.6315180318501618,3,kejadian terdeteksi,3,3,PASS
+iforest,semua fitur,0.6315180318501618,6,episode,7,7,PASS
+iforest,semua fitur,0.6315180318501618,6,episode dalam jendela,5,5,PASS
+iforest,semua fitur,0.6315180318501618,6,alarm palsu,2,2,PASS
+iforest,semua fitur,0.6315180318501618,6,kejadian terdeteksi,3,3,PASS
+iforest,semua fitur,0.639883811648134,1,episode,9,9,PASS
+iforest,semua fitur,0.639883811648134,1,episode dalam jendela,5,5,PASS
+iforest,semua fitur,0.639883811648134,1,alarm palsu,4,4,PASS
+iforest,semua fitur,0.639883811648134,1,kejadian terdeteksi,3,3,PASS
+iforest,semua fitur,0.639883811648134,3,episode,6,6,PASS
+iforest,semua fitur,0.639883811648134,3,episode dalam jendela,5,5,PASS
+iforest,semua fitur,0.639883811648134,3,alarm palsu,1,1,PASS
+iforest,semua fitur,0.639883811648134,3,kejadian terdeteksi,3,3,PASS
+iforest,semua fitur,0.639883811648134,6,episode,6,6,PASS
+iforest,semua fitur,0.639883811648134,6,episode dalam jendela,5,5,PASS
+iforest,semua fitur,0.639883811648134,6,alarm palsu,1,1,PASS
+iforest,semua fitur,0.639883811648134,6,kejadian terdeteksi,3,3,PASS
+iforest,semua fitur,0.6543113961788212,1,episode,5,5,PASS
+iforest,semua fitur,0.6543113961788212,1,episode dalam jendela,4,4,PASS
+iforest,semua fitur,0.6543113961788212,1,alarm palsu,1,1,PASS
+iforest,semua fitur,0.6543113961788212,1,kejadian terdeteksi,2,2,PASS
+iforest,semua fitur,0.6543113961788212,3,episode,5,5,PASS
+iforest,semua fitur,0.6543113961788212,3,episode dalam jendela,4,4,PASS
+iforest,semua fitur,0.6543113961788212,3,alarm palsu,1,1,PASS
+iforest,semua fitur,0.6543113961788212,3,kejadian terdeteksi,2,2,PASS
+iforest,semua fitur,0.6543113961788212,6,episode,4,4,PASS
+iforest,semua fitur,0.6543113961788212,6,episode dalam jendela,4,4,PASS
+iforest,semua fitur,0.6543113961788212,6,alarm palsu,0,0,PASS
+iforest,semua fitur,0.6543113961788212,6,kejadian terdeteksi,2,2,PASS
+iforest,semua fitur,0.7046923156140893,1,episode,3,3,PASS
+iforest,semua fitur,0.7046923156140893,1,episode dalam jendela,3,3,PASS
+iforest,semua fitur,0.7046923156140893,1,alarm palsu,0,0,PASS
+iforest,semua fitur,0.7046923156140893,1,kejadian terdeteksi,2,2,PASS
+iforest,semua fitur,0.7046923156140893,3,episode,3,3,PASS
+iforest,semua fitur,0.7046923156140893,3,episode dalam jendela,3,3,PASS
+iforest,semua fitur,0.7046923156140893,3,alarm palsu,0,0,PASS
+iforest,semua fitur,0.7046923156140893,3,kejadian terdeteksi,2,2,PASS
+iforest,semua fitur,0.7046923156140893,6,episode,3,3,PASS
+iforest,semua fitur,0.7046923156140893,6,episode dalam jendela,3,3,PASS
+iforest,semua fitur,0.7046923156140893,6,alarm palsu,0,0,PASS
+iforest,semua fitur,0.7046923156140893,6,kejadian terdeteksi,2,2,PASS
+iforest,semua fitur,0.7267561301568453,1,episode,2,2,PASS
+iforest,semua fitur,0.7267561301568453,1,episode dalam jendela,2,2,PASS
+iforest,semua fitur,0.7267561301568453,1,alarm palsu,0,0,PASS
+iforest,semua fitur,0.7267561301568453,1,kejadian terdeteksi,1,1,PASS
+iforest,semua fitur,0.7267561301568453,3,episode,1,1,PASS
+iforest,semua fitur,0.7267561301568453,3,episode dalam jendela,1,1,PASS
+iforest,semua fitur,0.7267561301568453,3,alarm palsu,0,0,PASS
+iforest,semua fitur,0.7267561301568453,3,kejadian terdeteksi,1,1,PASS
+iforest,semua fitur,0.7267561301568453,6,episode,0,0,PASS
+iforest,semua fitur,0.7267561301568453,6,episode dalam jendela,0,0,PASS
+iforest,semua fitur,0.7267561301568453,6,alarm palsu,0,0,PASS
+iforest,semua fitur,0.7267561301568453,6,kejadian terdeteksi,0,0,PASS

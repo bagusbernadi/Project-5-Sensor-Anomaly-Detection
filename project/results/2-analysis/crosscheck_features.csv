@@ -1,0 +1,8 @@
+fitur,titik_dibandingkan,pola_kosong_sama,selisih_maks,status
+roll_mean_24h,22407,ya,7.105427357601002e-14,PASS
+roll_std_24h,22407,ya,8.276490603975617e-12,PASS
+z_score,22407,ya,3.157385464191975e-11,PASS
+dev_mean,22407,ya,7.105427357601002e-14,PASS
+slope_6h,22624,ya,1.326716514427062e-14,PASS
+profil jam: rata-rata,24,ya,8.526512829121202e-14,PASS
+profil jam: simpangan baku,24,ya,2.3092638912203256e-14,PASS

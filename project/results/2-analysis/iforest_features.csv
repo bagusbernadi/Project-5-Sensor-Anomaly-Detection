@@ -1,0 +1,6 @@
+feature_set,kolom
+value,value
+value+z,"value, z_score"
+value+z+std,"value, z_score, roll_std_24h"
+value+z+slope,"value, z_score, slope_6h"
+semua fitur,"value, z_score, roll_std_24h, slope_6h, dev_mean"

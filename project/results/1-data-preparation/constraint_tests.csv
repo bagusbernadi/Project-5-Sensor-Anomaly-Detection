@@ -1,0 +1,11 @@
+test,outcome
+seq ganda,ditolak
+suhu di luar -50..200,ditolak
+gap_flag tidak dikenal,ditolak
+suhu kosong,ditolak
+jendela berakhir sebelum mulai,ditolak
+metode alarm tidak dikenal,ditolak
+alarm menunjuk seq yang tidak ada,ditolak
+alarm menunjuk jendela yang tidak ada,ditolak
+in_window tidak cocok dengan window_id,ditolak
+persistence nol,ditolak

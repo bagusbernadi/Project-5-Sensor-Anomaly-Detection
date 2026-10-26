@@ -1,0 +1,8 @@
+pemeriksaan,violations
+seq berurutan 1..N tanpa lubang,0
+jumlah timestamp mundur = 1,0
+gap_flag ts_mundur tepat 1 baris,0
+tidak ada celah > 5 menit,0
+jendela berlabel tidak tumpang tindih,0
+semua jendela berada di dalam rentang data,0
+fitur: tepat 288 baris pertama kosong,0
