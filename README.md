@@ -10,7 +10,7 @@ Halaman rancangan dan Report: https://bagusbernadi.github.io/Project-5-Sensor-An
 |---|---|
 | Kategori | Manufaktur (sensor mesin industri) |
 | Tingkat | Menengah |
-| Data | Dataset publik NAB v1.1, `machine_temperature_system_failure` (lisensi MIT) |
+| Data | Dataset publik NAB v1.1, `machine_temperature_system_failure` (repositori berlisensi AGPL v3) |
 | Tools | SQL (DuckDB), Python (pandas, NumPy, scikit-learn, statsmodels), Jupyter, Streamlit + Plotly, GitHub |
 
 ## 1. Problem

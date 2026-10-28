@@ -19,7 +19,7 @@ DOCS_DIR = ROOT / "docs"
 for _d in (RES_PREP, RES_ANALYSIS, RES_PRESENT):     # folder hasil dibuat otomatis saat menjalankan dari repo bersih
     _d.mkdir(parents=True, exist_ok=True)
 
-# Sumber data (NAB v1.1, lisensi MIT)
+# Sumber data (NAB v1.1, repositori berlisensi AGPL v3)
 NAB_TAG = "v1.1"
 NAB_BASE = f"https://raw.githubusercontent.com/numenta/NAB/{NAB_TAG}/"
 NAB_DATA_PATH = "data/realKnownCause/machine_temperature_system_failure.csv"

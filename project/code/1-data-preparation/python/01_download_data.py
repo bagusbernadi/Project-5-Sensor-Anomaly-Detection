@@ -1,4 +1,4 @@
-"""Mengunduh file NAB v1.1 (data suhu dan label jendela) dari repositori resmi Numenta (lisensi MIT)."""
+"""Mengunduh file NAB v1.1 (data suhu dan label jendela) dari repositori resmi Numenta (repositori berlisensi AGPL v3)."""
 import hashlib
 import json
 import sys

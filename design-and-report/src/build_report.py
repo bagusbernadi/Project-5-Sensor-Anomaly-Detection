@@ -275,12 +275,12 @@ CODE_REL = "project/code/"
 allcode = list((REPO / CODE_REL).rglob("*.py"))
 npy, loc = len(allcode), sum(len(p.read_text(encoding="utf-8").splitlines()) for p in allcode)
 nsql = len(list((REPO / CODE_REL).rglob("*.sql")))
-rp3 = mk(f'<div class="card"><p><b>Jawaban singkat:</b> dataset sesuai rancangan (NAB v1.1, {I(dbc["sensor_readings"])} titik, {I(n_win)} jendela, lisensi MIT). Dua dari lima hipotesis tidak didukung data (pola harian dan celah waktu), dua sebagian benar, satu terbukti sebagian. '
+rp3 = mk(f'<div class="card"><p><b>Jawaban singkat:</b> dataset sesuai rancangan (NAB v1.1, {I(dbc["sensor_readings"])} titik, {I(n_win)} jendela, repositori berlisensi AGPL v3). Dua dari lima hipotesis tidak didukung data (pola harian dan celah waktu), dua sebagian benar, satu terbukti sebagian. '
          'Tabel features dibuat sebagai view, bukan tabel.</p></div>',
          table(["Aspek", "Rancangan", "Realisasi", "Verdict"], [
              ["Sumber", "NAB v1.1, <code>machine_temperature_system_failure</code>, akses 25 Oktober 2026", f"Diunduh skrip dari tag {dlog.version[0]}; {I(len(dlog))} file dicatat di <code>download_log.csv</code>", OK("Sesuai")],
              ["Ukuran", "22.695 titik, 2 kolom, interval 5 menit, 4 jendela berlabel", f"{I(dbc['sensor_readings'])} titik, {I(dqt['interval 5 menit normal'])} selisih tepat 5 menit, {I(n_win)} jendela", OK("Sesuai")],
-             ["Lisensi dan sitasi", "MIT; Lavin dan Ahmad (2015)", "Dicatat di <code>project/data/README.md</code>; file data tidak di-commit", OK("Sesuai")],
+             ["Lisensi dan sitasi", "AGPL v3 (repositori NAB); Lavin dan Ahmad (2015)", "Dicatat di <code>project/data/README.md</code>; file data tidak di-commit", OK("Sesuai")],
              ["Tabel", "sensor_readings, features, anomaly_windows, alarms", "Keempatnya; <code>features</code> berupa view SQL (selalu konsisten dengan data), ditambah constraint dan 10 uji penolakan", PART("Sesuai + penyesuaian")],
              ["Hipotesis 1: penyimpangan bertahap sebelum kegagalan, bisa dideteksi lebih awal", "Belum terbukti",
               f"Ambang tetap memberi peringatan {D(fxl.min(), 1)} sampai {D(fxl.max(), 1)} jam dari titik tengah; {I(fx.events_early_all)} dari 4 kejadian lebih awal, kejadian 3 tidak", PART("Sebagian")],
@@ -406,7 +406,7 @@ rp7 += mk('<div class="card"><h4>7.6 Batasan</h4><ul class="tight">',
           '<li>Jendela NAB adalah rentang di sekitar kejadian; titik tengah hanya perkiraan waktu kegagalan, dan alarm di luar jendela belum tentu alarm palsu.</li>',
           f'<li>Batas alarm palsu {D(FA_LIMIT, 0)} per minggu, minimal peringatan {D(MIN_LEAD_H, 0)} jam, dan downtime per kegagalan adalah asumsi; estimasi kegagalan per tahun diekstrapolasi dari kurang dari 3 bulan data.</li>',
           '<li>Satu mesin tidak mewakili semua mesin; ambang terbaik bisa berbeda.</li>',
-          '<li>Dashboard belum di-deploy dan kriteria 5 dan 6 belum terpenuhi. Slide presentasi (Opsional) tidak dibuat. Lisensi data MIT (repositori NAB).</li></ul></div>')
+          '<li>Dashboard belum di-deploy dan kriteria 5 dan 6 belum terpenuhi. Slide presentasi (Opsional) tidak dibuat. Lisensi repositori NAB: AGPL v3 (cakupannya untuk berkas data belum dipastikan).</li></ul></div>')
 
 evq = [("1", "rp1", "Data yang didapat", OK("Didapat"), f"{I(dbc['sensor_readings'])} titik suhu, {I(n_win)} jendela berlabel, {I(dbc['alarms'])} episode alarm dievaluasi"),
        ("2", "rp2", "Business question terjawab?", OK(f"{len(QT)} dari {len(QT)}"), f"Semua terjawab ({npr['Utama']} Utama, {npr['Pendukung']} Pendukung, {npr['Tambahan']} Tambahan); {nw} dengan catatan ({wtxt})"),
