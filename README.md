@@ -2,7 +2,7 @@
 
 # Project 5: Sensor Time-Series Anomaly Detection
 
-**Status: Selesai di branch `project-5-build` (menunggu review sebelum digabung ke `main`).**
+**Status: Selesai dan digabung ke `main`.**
 
 Halaman rancangan dan Report: https://bagusbernadi.github.io/Project-5-Sensor-Anomaly-Detection/
 
